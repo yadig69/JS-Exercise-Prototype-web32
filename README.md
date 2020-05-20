@@ -3,9 +3,11 @@
 In order to complete these tasks you will need your newly aquired knowledge of constructor functions, prototypes, and the `this` keyword.
 
 ##### Index
-
-* [Instructions](#instructions)
-* [Get Started](#get-started)
+learn
+- [Constructors, Prototypes and _this_](#constructors-prototypes-and-this)
+        - [Index](#index)
+  - [Instructions](#instructions)
+  - [Get Started](#get-started)
 
 ## Instructions
 
